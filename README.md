@@ -1,4 +1,5 @@
 Lin Clark's Sparql_Views (https://www.drupal.org/project/sparql_views) Modified by Jordi Virgili
+[Visit GitHub!](www.github.com).
 
 SPARQL VIEWS modification
 ============
